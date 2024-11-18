@@ -1,0 +1,1 @@
+{"learning_rate": 0.01, "dropout": 0.5, "hidden_size": 512, "batch_size": 54, "n_layers": 3, "teacher_forcing_ratio": 0.3}
